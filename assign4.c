@@ -1,0 +1,5 @@
+"Enter one of the following actions or press CTRL-D to exit."
+"C - create a new course record"
+"U - update an existing course record"
+"R - read an existing course record"
+"D - delete an existing course record"
